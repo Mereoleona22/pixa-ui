@@ -1,6 +1,5 @@
 ![pixaui.com](https://github.com/Mereoleona22/pixa-ui/blob/main/apps/www/public/og.png)
 
-<h3 align="center">pixaui.com</h3>
 <p align="center">Build faster with beautifully crafted components.</p>
 
 ## About the Project
